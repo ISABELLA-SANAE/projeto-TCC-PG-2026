@@ -1,5 +1,5 @@
 ---
-name: RF005 - Registrar justificativa de falta ou atraso
+name: [US002] - Registrar justificativa de falta ou atraso
 about: Permite que o professor justifique ausências ou atrasos, anexando documentos
   e selecionando o tipo de ocorrência. O sistema notifica o gestor para aprovação.
 title: RF005 - Registrar justificativa de falta ou atraso
