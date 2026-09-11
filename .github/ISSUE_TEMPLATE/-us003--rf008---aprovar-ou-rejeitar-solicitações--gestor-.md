@@ -1,5 +1,5 @@
 ---
-name: "[US003]/RF008 - Aprovar ou rejeitar solicitações (gestor)"
+name: "[US003] - Aprovar ou rejeitar solicitações (gestor)"
 about: Permite que o gestor visualize todas as solicitações dos professores (justificativas
   e compensações) e aprove ou rejeite. Cada decisão é registrada e notificada ao solicitante.
 title: RF008 - Aprovar ou rejeitar solicitações (gestor)
