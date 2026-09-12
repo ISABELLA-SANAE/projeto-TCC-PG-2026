@@ -26,7 +26,7 @@ Critérios de Aceitação:
 - A história foi estimada pela equipe.
 - O protótipo de interface (UX/UI) está aprovado.
 
-Métricas (Preencher no GitHub Projects)
+Métricas:
 - Prioridade: Alta
 - Esforço: G (Grande) - 8 Story Points
 - Tamanho: G
