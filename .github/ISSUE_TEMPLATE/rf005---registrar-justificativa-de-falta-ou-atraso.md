@@ -27,3 +27,9 @@ Definição de Pronto:
 - As dependências técnicas foram identificadas.
 - A história foi estimada pela equipe.
 - O protótipo de interface (UX/UI) está aprovado.
+
+Métricas:
+- Prioridade: Alta 
+- Esforço: M (Médio) - 5 Story Points
+- Tamanho: M
+- Valor do Negócio: 80
