@@ -25,3 +25,9 @@ Critérios de Aceitação:
 - As dependências técnicas foram identificadas.
 - A história foi estimada pela equipe.
 - O protótipo de interface (UX/UI) está aprovado.
+
+Métricas (Preencher no GitHub Projects)
+- Prioridade: Alta
+- Esforço: G (Grande) - 8 Story Points
+- Tamanho: G
+- Valor do Negócio: 90
